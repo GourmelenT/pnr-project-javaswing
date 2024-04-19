@@ -4,5 +4,5 @@ This project involved creating a Java Swing application for the Gulf of Morbihan
 By following the specifications given by the RNP, we were able to develop the application to meet the customer's needs. We have a MySQL database and a Java Swing application.
 
 In the following video, you'll see the application that my team and I created.
-![PNR](https://ggithub.com/GourmelenT/pnr-project-javaswing/blob/main/pnr.gif)
+![PNR](pnr.gif)
 
